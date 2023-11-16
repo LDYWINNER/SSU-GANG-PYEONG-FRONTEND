@@ -1,2 +1,2 @@
 # SSU-GANG-PYEONG-FRONTEND
- SUNYTIME ver.2
+ SUNYTIME ver.2 web frontend
